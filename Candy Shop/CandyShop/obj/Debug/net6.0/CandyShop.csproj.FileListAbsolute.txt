@@ -1,0 +1,132 @@
+C:\Users\manjushreep\Desktop\CandyShop\bin\Debug\net6.0\CandyShop.exe
+C:\Users\manjushreep\Desktop\CandyShop\bin\Debug\net6.0\CandyShop.deps.json
+C:\Users\manjushreep\Desktop\CandyShop\bin\Debug\net6.0\CandyShop.runtimeconfig.json
+C:\Users\manjushreep\Desktop\CandyShop\bin\Debug\net6.0\CandyShop.dll
+C:\Users\manjushreep\Desktop\CandyShop\bin\Debug\net6.0\CandyShop.pdb
+C:\Users\manjushreep\Desktop\CandyShop\obj\Debug\net6.0\CandyShop.csproj.AssemblyReference.cache
+C:\Users\manjushreep\Desktop\CandyShop\obj\Debug\net6.0\CandyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manjushreep\Desktop\CandyShop\obj\Debug\net6.0\CandyShop.AssemblyInfoInputs.cache
+C:\Users\manjushreep\Desktop\CandyShop\obj\Debug\net6.0\CandyShop.AssemblyInfo.cs
+C:\Users\manjushreep\Desktop\CandyShop\obj\Debug\net6.0\CandyShop.csproj.CoreCompileInputs.cache
+C:\Users\manjushreep\Desktop\CandyShop\obj\Debug\net6.0\CandyShop.dll
+C:\Users\manjushreep\Desktop\CandyShop\obj\Debug\net6.0\refint\CandyShop.dll
+C:\Users\manjushreep\Desktop\CandyShop\obj\Debug\net6.0\CandyShop.pdb
+C:\Users\manjushreep\Desktop\CandyShop\obj\Debug\net6.0\CandyShop.genruntimeconfig.cache
+C:\Users\manjushreep\Desktop\CandyShop\obj\Debug\net6.0\ref\CandyShop.dll
+C:\Users\manjushreep\Desktop\CandyShop\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\manjushreep\Desktop\CandyShop\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\manjushreep\Desktop\CandyShop\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\manjushreep\Desktop\CandyShop\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\manjushreep\Desktop\CandyShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manjushreep\Desktop\CandyShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manjushreep\Desktop\CandyShop\obj\Debug\net6.0\CandyShop.csproj.CopyComplete
+C:\Users\manjushreep\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.exe
+C:\Users\manjushreep\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.deps.json
+C:\Users\manjushreep\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.runtimeconfig.json
+C:\Users\manjushreep\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.dll
+C:\Users\manjushreep\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.pdb
+C:\Users\manjushreep\dbtest\CandyShop\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\manjushreep\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\manjushreep\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\manjushreep\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\manjushreep\dbtest\CandyShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manjushreep\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manjushreep\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.AssemblyReference.cache
+C:\Users\manjushreep\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manjushreep\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.AssemblyInfoInputs.cache
+C:\Users\manjushreep\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.AssemblyInfo.cs
+C:\Users\manjushreep\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.CoreCompileInputs.cache
+C:\Users\manjushreep\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.CopyComplete
+C:\Users\manjushreep\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.dll
+C:\Users\manjushreep\dbtest\CandyShop\obj\Debug\net6.0\refint\CandyShop.dll
+C:\Users\manjushreep\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.pdb
+C:\Users\manjushreep\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.genruntimeconfig.cache
+C:\Users\manjushreep\dbtest\CandyShop\obj\Debug\net6.0\ref\CandyShop.dll
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.AssemblyReference.cache
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.AssemblyInfoInputs.cache
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.AssemblyInfo.cs
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.CoreCompileInputs.cache
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.dll
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\obj\Debug\net6.0\refint\CandyShop.dll
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.pdb
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.exe
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.deps.json
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.runtimeconfig.json
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.dll
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.pdb
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.CopyComplete
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.genruntimeconfig.cache
+C:\Users\Teja\Desktop\Nikki PPT\dotnet project\dbtest\CandyShop\obj\Debug\net6.0\ref\CandyShop.dll
+C:\Users\manju\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.AssemblyReference.cache
+C:\Users\manju\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manju\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.AssemblyInfoInputs.cache
+C:\Users\manju\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.AssemblyInfo.cs
+C:\Users\manju\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.CoreCompileInputs.cache
+C:\Users\manju\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.dll
+C:\Users\manju\dbtest\CandyShop\obj\Debug\net6.0\refint\CandyShop.dll
+C:\Users\manju\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.pdb
+C:\Users\manju\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.exe
+C:\Users\manju\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.deps.json
+C:\Users\manju\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.runtimeconfig.json
+C:\Users\manju\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.dll
+C:\Users\manju\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.pdb
+C:\Users\manju\dbtest\CandyShop\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\manju\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\manju\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\manju\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\manju\dbtest\CandyShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manju\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manju\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.CopyComplete
+C:\Users\manju\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.genruntimeconfig.cache
+C:\Users\manju\dbtest\CandyShop\obj\Debug\net6.0\ref\CandyShop.dll
+C:\Users\nikhithau\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.exe
+C:\Users\nikhithau\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.deps.json
+C:\Users\nikhithau\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.runtimeconfig.json
+C:\Users\nikhithau\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.dll
+C:\Users\nikhithau\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.pdb
+C:\Users\nikhithau\dbtest\CandyShop\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\nikhithau\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nikhithau\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\nikhithau\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\nikhithau\dbtest\CandyShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nikhithau\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nikhithau\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.AssemblyReference.cache
+C:\Users\nikhithau\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhithau\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.AssemblyInfoInputs.cache
+C:\Users\nikhithau\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.AssemblyInfo.cs
+C:\Users\nikhithau\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.CoreCompileInputs.cache
+C:\Users\nikhithau\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.CopyComplete
+C:\Users\nikhithau\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.dll
+C:\Users\nikhithau\dbtest\CandyShop\obj\Debug\net6.0\refint\CandyShop.dll
+C:\Users\nikhithau\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.pdb
+C:\Users\nikhithau\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.genruntimeconfig.cache
+C:\Users\nikhithau\dbtest\CandyShop\obj\Debug\net6.0\ref\CandyShop.dll
+C:\Users\saikeertiv\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.exe
+C:\Users\saikeertiv\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.deps.json
+C:\Users\saikeertiv\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.runtimeconfig.json
+C:\Users\saikeertiv\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.dll
+C:\Users\saikeertiv\dbtest\CandyShop\bin\Debug\net6.0\CandyShop.pdb
+C:\Users\saikeertiv\dbtest\CandyShop\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\saikeertiv\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\saikeertiv\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\saikeertiv\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\saikeertiv\dbtest\CandyShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saikeertiv\dbtest\CandyShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saikeertiv\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.AssemblyReference.cache
+C:\Users\saikeertiv\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saikeertiv\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.AssemblyInfoInputs.cache
+C:\Users\saikeertiv\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.AssemblyInfo.cs
+C:\Users\saikeertiv\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.CoreCompileInputs.cache
+C:\Users\saikeertiv\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.csproj.CopyComplete
+C:\Users\saikeertiv\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.dll
+C:\Users\saikeertiv\dbtest\CandyShop\obj\Debug\net6.0\refint\CandyShop.dll
+C:\Users\saikeertiv\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.pdb
+C:\Users\saikeertiv\dbtest\CandyShop\obj\Debug\net6.0\CandyShop.genruntimeconfig.cache
+C:\Users\saikeertiv\dbtest\CandyShop\obj\Debug\net6.0\ref\CandyShop.dll

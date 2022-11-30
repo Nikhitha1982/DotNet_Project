@@ -1,0 +1,6 @@
+USE CandyShop;
+INSERT into candies VALUES('C1','CHOCOLATE',25.00);
+INSERT into candies VALUES('C2','COOKIE AND CREAM',25.00);
+INSERT into candies VALUES('C3','NUTELLA',30.00);
+INSERT into candies VALUES('C4','CINNAMON SUGAR',30.00);
+INSERT into candies VALUES('C5','RAINBOW SPRINKLE',30.00);
